@@ -55,6 +55,18 @@
     <None Include="lambert.fs">
       <Filter>Pliki źródłowe</Filter>
     </None>
+    <None Include="cube.mtl">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="monkey.mtl">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="cylinder.mtl">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="Fish.mtl">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Object Include="rat.obj">
@@ -63,5 +75,19 @@
     <Object Include="..\..\..\Desktop\V semestr\SEMESTR 5\RW\zadanie 6\monkey.obj">
       <Filter>Pliki źródłowe</Filter>
     </Object>
+    <Object Include="cube.obj">
+      <Filter>Pliki źródłowe</Filter>
+    </Object>
+    <Object Include="cylinder.obj">
+      <Filter>Pliki źródłowe</Filter>
+    </Object>
+    <Object Include="Fish.obj">
+      <Filter>Pliki źródłowe</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="fish_texture.png">
+      <Filter>Pliki źródłowe</Filter>
+    </Image>
   </ItemGroup>
 </Project>
